@@ -1,0 +1,3 @@
+satellite 2
+satellite 9
+satellite 7
